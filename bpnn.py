@@ -152,7 +152,7 @@ def demo():
         [[0,1], [1]],
         [[1,0], [1]],
         [[1,1], [0]]
-    ]
+    
 
     # create a network with two input, two hidden, and one output nodes
     n = BPNNet(2, 2, 1)
